@@ -1,5 +1,21 @@
-# 🌌 Aether Injector v1.0.0
+<div align="center">
+  <h1>🌌 Aether Injector v1.0.0</h1>
+  <p><strong>Advanced Windows DLL Injection with Stealth Evasion</strong></p>
+  
+  <br>
+  
+  <!-- Buraya daha önce konuştuğumuz GIF'i ekleyeceksin -->
+  <img src="assets/demo.gif" alt="Aether Injector Preview" width="700">
+  
+  <br><br>
+  
+  <p>
+    <a href="https://github.com/4yk5/AetherInjector/issues">Report Bug</a> ·
+    <a href="https://github.com/4yk5/AetherInjector/issues">Request Feature</a>
+  </p>
+</div>
 
+<hr>
 <img width="816" height="635" alt="Screenshot_1" src="https://github.com/user-attachments/assets/045c7836-9b27-40e8-a8e3-82789e936f6b" />
 
 
