@@ -3,8 +3,6 @@
   <p><strong>Advanced Windows DLL Injection with Stealth Evasion</strong></p>
   
   <br>
-  
-  <!-- Buraya daha önce konuştuğumuz GIF'i ekleyeceksin -->
   <img src="assets/demo.gif" alt="Aether Injector Preview" width="700">
   
   <br><br>
