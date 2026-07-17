@@ -1,12 +1,9 @@
 <div align="center">
   <h1>🌌 Aether Injector v1.0.0</h1>
   <p><strong>Advanced Windows DLL Injection with Stealth Evasion</strong></p>
-  
   <br>
   <img src="assets/demo.gif" alt="Aether Injector Preview" width="700">
-  
   <br><br>
-  
   <p>
     <a href="https://github.com/4yk5/AetherInjector/issues">Report Bug</a> ·
     <a href="https://github.com/4yk5/AetherInjector/issues">Request Feature</a>
